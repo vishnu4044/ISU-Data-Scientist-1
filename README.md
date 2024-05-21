@@ -1,5 +1,7 @@
 # ISU-Data-Scientist-1
 
+Note: Assuming the following Dataset : https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention?resource=download
+
 ### About Data
 
 This dataset provides a comprehensive view of students enrolled in various undergraduate degrees offered at a higher education institution.It includes demographic data, social-economic factors and academic performance information that can be used to analyze the possible predictors of student dropout and academic success. 
